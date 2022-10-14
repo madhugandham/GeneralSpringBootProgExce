@@ -7,7 +7,7 @@ trigger:
 - development
 
 pool:
-  name: 'MyAgentPool2'
+  name: 'MyAgentPool'
 
 steps:
 - task: Maven@3
